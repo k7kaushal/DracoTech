@@ -1,7 +1,9 @@
 *{
     margin: 0px;
 }
-
+body{
+    overflow-x: hidden;
+}
 .containermain{
     /* background-color: aqua; */
     /* width: 100%; */
